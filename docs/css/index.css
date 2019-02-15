@@ -135,6 +135,48 @@ p {
     justify-content: center;
 }
 
+/*box colors*/
+
+.middle-content .boxes .b1 {
+    background: teal;
+}
+
+.middle-content .boxes .b2 {
+    background: gold;
+}
+
+.middle-content .boxes .b3 {
+    background: cadetblue;
+}
+
+.middle-content .boxes .b4 {
+    background: coral;
+}
+
+.middle-content .boxes .b5 {
+    background:crimson;
+}
+
+.middle-content .boxes .b6 {
+    background: forestgreen;
+}
+
+.middle-content .boxes .b7 {
+    background: darkorchid;
+}
+
+.middle-content .boxes .b8 {
+    background: hotpink;
+}
+
+.middle-content .boxes .b9 {
+    background: indigo;
+}
+
+.middle-content .boxes .b0 {
+    background: dodgerblue;
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
