@@ -118,6 +118,14 @@ p {
     padding: 0 2.5% 20px 2.5%;
 }
 
+/*Contact page top content*/
+
+.contact-top {
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+
+}
+
 /*Main page mid content*/
 
 .middle-content {
@@ -215,6 +223,19 @@ p {
     border: 1px solid black;
     margin-top: 10px;
     padding: 7.5px 25px;
+}
+
+/*Contact form*/
+
+.contact-form {
+    padding: 20px 2.5%;
+    line-height: 1.25;
+    
+}
+
+.contact-form fieldset {
+    border: 1px double black;
+    padding: 10px 2.5%;
 }
 
 /*Main page bot content*/
