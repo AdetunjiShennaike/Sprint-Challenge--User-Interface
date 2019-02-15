@@ -94,6 +94,15 @@ p {
     margin-bottom: 20px;
 }
 
+@media screen and (max-width: 450px) {
+    .navbar .items {
+        width: auto;
+        flex-direction: column;
+        justify-content: flex-start
+    }
+}
+
+
 /*Main page top content*/
 
 .top-content {
@@ -122,7 +131,7 @@ p {
 
 .contact-top {
     border-bottom: 1px dashed black;
-    padding-bottom: 20px;
+    padding:0 2.5% 20px 2.5%;
 
 }
 
